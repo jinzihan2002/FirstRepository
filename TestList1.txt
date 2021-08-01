@@ -2,3 +2,5 @@ Apple
 Pear
 Banana
 Orange
+Cherry
+Kiwi
